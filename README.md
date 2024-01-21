@@ -1,5 +1,7 @@
 # Image2Sound
 
+Initiallly created January 2023 when the Fourier transform and this spectrogram app [[https://musiclab.chromeexperiments.com/spectrogram/]] were mentioned in class and I wanted a very visceral demonstration of the math.
+
 Simple python notebook to encode images in sound files using an inverse fourier transform
 
 I am planning on formalizing it into a more robust script when I have the time
